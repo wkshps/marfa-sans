@@ -1,6 +1,6 @@
 # Marfa Sans
 
-Design by Tang Ziqiao, Chris Wu & Eric Price, [Wkshps](https://www.wkshps.com/).
+Design by Tang Ziqiao, Chris Wu & Eric Price, [Wkshps](https://www.wkshps.com/)
 
 Partially adapted from [Lunchtype 24](http://lunchtype.com/) by Stefan Wetterstrand
 
