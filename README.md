@@ -2,6 +2,8 @@
 
 Design by Tang Ziqiao, Chris Wu & Eric Price, [Wkshps](https://www.wkshps.com/)
 
+For [Ballroom Marfa](https://www.ballroommarfa.org/), 2019
+
 Partially adapted from [Lunchtype 24](http://lunchtype.com/) by Stefan Wetterstrand
 
 ## SIL OPEN FONT LICENSE
